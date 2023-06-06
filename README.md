@@ -1,3 +1,19 @@
+# IMPORTANT
+
+This is Planitar's fork of [tjw-lint/jest-serializer-vue-tjw](https://github.com/tjw-lint/jest-serializer-vue-tjw). It is needed until https://github.com/tjw-lint/jest-serializer-vue-tjw/pull/82 is merged.
+
+Install it using:
+
+```sh
+npm i @plntr/jest-serializer-vue-tjw
+```
+
+<br/> <br/> <br/>
+
+---
+
+<br/> <br/> <br/>
+
 # jest-serializer-vue-tjw
 
 [![Node.js CI](https://github.com/tjw-lint/jest-serializer-vue-tjw/actions/workflows/node.js.yml/badge.svg)](https://github.com/tjw-lint/jest-serializer-vue-tjw/actions/workflows/node.js.yml) [![Test Coverage: 100%](https://img.shields.io/badge/Test%20Coverage-100%25-brightgreen.svg?logo=jest)](https://github.com/tjw-lint/jest-serializer-vue-tjw/actions/workflows/node.js.yml) [![Lint Coverage: 100%](https://img.shields.io/badge/Lint%20Coverage-100%25-brightgreen.svg?logo=eslint)](https://github.com/tjw-lint) [![Compatible with Node 8.3+](https://img.shields.io/badge/Node-%3E%3D8.3.0-brightgreen.svg?logo=Node.js)](/package.json) [![Code of Conduct: No Ideologies](https://img.shields.io/badge/CoC-No%20Ideologies-blue)](/CODE_OF_CONDUCT.md) [![MIT Licensed](https://img.shields.io/badge/License-MIT-brightgreen)](/LICENSE)
